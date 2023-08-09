@@ -1,13 +1,15 @@
-# Hand Gesture Recognition System using Mediapipe
+## AIR-VOLUME: Controlling System Volume using Hand Gesture Recognition System 
 
 ![Gesture Demo](https://github.com/Arya920/Volume_Control_Using_hand_gesture/blob/main/cv.gif)
 
 ## Requirements
 
-- Python 3.x
-- OpenCV (`cv2`)
-- Mediapipe (`mediapipe`)
-- PyAutoGUI (`pyautogui`)
+- *`Python 3.x`*
+- *`cv2`*
+- *`mediapipe`*
+- *`pyautogui`*
+
+
 
 ## How to Use
 
