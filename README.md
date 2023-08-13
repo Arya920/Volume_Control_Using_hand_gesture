@@ -38,5 +38,7 @@
 - The project was inspired by the Mediapipe library and its hand tracking capabilities.
 - Special thanks to the Mediapipe team for their contributions to open-source computer vision.
 
+## Social ~
+- Feel free to share your thoughts or any suggestion on my [LinkedIn Blog Post](https://www.linkedin.com/posts/arya-chakraborty2002_linkedin-gesturerecognition-machinelearning-activity-7092090027794399232-Gz6q?utm_source=share&utm_medium=member_desktop)
 
-  - Feel free to share your thoughts or any suggestion on my [LinkedIn Blog Post](https://www.linkedin.com/posts/arya-chakraborty2002_linkedin-gesturerecognition-machinelearning-activity-7092090027794399232-Gz6q?utm_source=share&utm_medium=member_desktop)
+- Or you can drop an mail here **aryachakraborty.official@gmail.com**
