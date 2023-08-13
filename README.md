@@ -2,6 +2,9 @@
 
 ![Gesture Demo](https://github.com/Arya920/Volume_Control_Using_hand_gesture/blob/main/cv.gif)
 
+
+![LinkedIn Blog Post](https://www.linkedin.com/posts/arya-chakraborty2002_linkedin-gesturerecognition-machinelearning-activity-7092090027794399232-Gz6q?utm_source=share&utm_medium=member_desktop)
+
 ## Requirements
 
 - *`Python 3.x`*
